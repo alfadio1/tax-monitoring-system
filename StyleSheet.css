@@ -1,0 +1,39 @@
+﻿body {
+}
+.boxes {
+	margin: 1px;
+	border: 1px solid #333333;
+	background: #FFFFFF;
+	font-family : Tahoma,Verdana,Arial;
+	font-style: normal;
+	font-size: 11px;
+	color: #003366;
+}
+
+.boxes2 {
+	margin: 1px;
+	border: 1px solid #3399CC;
+	background: #3399CC;
+	font-family : Tahoma,Verdana,Arial;
+	font-style: normal;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.text {
+	font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 15px;
+	padding-left:0px;	
+	padding-right:0px;		
+}
+.text2 {
+	font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 15px;
+	padding-left:0px;	
+	padding-right:0px;		
+}
